@@ -10,4 +10,8 @@ public class HomeController {
     public String home(){
         return "Hello World! From me";
     }
+    
+    public void test() {
+    	System.err.println("I am here!");
+    }
 }
