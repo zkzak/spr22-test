@@ -1,2 +1,2 @@
 # spr22-test
-demo
+Ics499 git demo
